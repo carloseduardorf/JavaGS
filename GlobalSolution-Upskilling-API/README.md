@@ -1,5 +1,10 @@
 # Global Solution - Plataforma de Upskilling/Reskilling (API)
 
+**Nomes e RMs**
+- Carlos Eduardo dos Santos Ribeiro Filho - RM: 556785
+- Felipe Cerboncini Cordeiro - RM: 554909
+- Pedro Henrique Martins Alves dos Santos - RM: 558107
+
 **Descrição curta:** API RESTful em Java + Spring Boot para uma plataforma de upskilling/reskilling focada no futuro do trabalho (2030+). Implementa CRUDs de `Usuários` e `Trilhas` com validação, tratamento centralizado de exceções e seeds iniciais.
 
 **Versões**
@@ -20,7 +25,7 @@ ou
 
 **Banco de dados**
 - H2 em memória configurado (URL: `jdbc:h2:mem:upskillingdb`).
-- Console H2: `http://localhost:8080/h2-console` (user: `sa`, password: empty).
+- Console H2: `http://localhost:8080/h2-console` (user: `sa`, password: empty, JDBC URL: jdbc:h2:mem:upskillingdb).
 
 **Endpoints principais**
 - `GET /api/usuarios` - listar todos usuários
