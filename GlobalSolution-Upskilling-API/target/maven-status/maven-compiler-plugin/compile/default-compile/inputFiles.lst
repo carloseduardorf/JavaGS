@@ -1,0 +1,14 @@
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\repository\TrilhaRepository.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\repository\UsuarioRepository.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\config\DataSeeder.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\exception\ResourceNotFoundException.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\model\Trilha.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\service\UsuarioService.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\controller\TrilhaController.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\dto\TrilhaDTO.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\model\Usuario.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\exception\GlobalExceptionHandler.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\UpskillingApiApplication.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\controller\UsuarioController.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\dto\UsuarioDTO.java
+C:\Users\shenl\Downloads\GlobalSolution-Upskilling-API\src\main\java\com\globalsolution\upskilling\service\TrilhaService.java

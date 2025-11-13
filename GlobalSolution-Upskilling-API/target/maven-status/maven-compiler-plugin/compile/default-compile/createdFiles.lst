@@ -1,0 +1,14 @@
+com\globalsolution\upskilling\model\Trilha.class
+com\globalsolution\upskilling\dto\TrilhaDTO.class
+com\globalsolution\upskilling\repository\UsuarioRepository.class
+com\globalsolution\upskilling\service\TrilhaService.class
+com\globalsolution\upskilling\controller\TrilhaController.class
+com\globalsolution\upskilling\repository\TrilhaRepository.class
+com\globalsolution\upskilling\exception\GlobalExceptionHandler.class
+com\globalsolution\upskilling\exception\ResourceNotFoundException.class
+com\globalsolution\upskilling\service\UsuarioService.class
+com\globalsolution\upskilling\dto\UsuarioDTO.class
+com\globalsolution\upskilling\model\Usuario.class
+com\globalsolution\upskilling\controller\UsuarioController.class
+com\globalsolution\upskilling\config\DataSeeder.class
+com\globalsolution\upskilling\UpskillingApiApplication.class
