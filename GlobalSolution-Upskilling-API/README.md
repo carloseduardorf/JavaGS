@@ -5,7 +5,9 @@
 - Felipe Cerboncini Cordeiro - RM: 554909
 - Pedro Henrique Martins Alves dos Santos - RM: 558107
 
-**Descrição curta:** API RESTful em Java + Spring Boot para uma plataforma de upskilling/reskilling focada no futuro do trabalho (2030+). Implementa CRUDs de `Usuários` e `Trilhas` com validação, tratamento centralizado de exceções e seeds iniciais.
+**Descrição curta da Solução:** A SkillSync VR é uma plataforma educacional B2B (Business-to-Business) projetada para enfrentar o desafio central da Global Solution: "O Futuro do Trabalho". A solução é um ambiente de treinamento imersivo que utiliza Realidade Virtual (VR) para requalificação (reskilling) e aprimoramento (upskilling) de funcionários em habilidades técnicas complexas e soft skills.
+
+**Descrição:** API RESTful em Java + Spring Boot para uma plataforma de upskilling/reskilling focada no futuro do trabalho (2030+). Implementa CRUDs de `Usuários` e `Trilhas` com validação, tratamento centralizado de exceções e seeds iniciais.
 
 **Versões**
 - Java: 21
